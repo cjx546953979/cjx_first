@@ -16,7 +16,7 @@
 ### 快速安装
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/cjx_first.git
+git clone https://github.com/cjx546953979/cjx_first.git
 cd cjx_first
 
 # 运行安装脚本
